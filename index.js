@@ -4,7 +4,6 @@ grid.className = "grid";
 document.body.appendChild(grid);
 boxAttributes.boxAttributes.forEach((boxAttributes) => {
   const box = document.createElement("div");
-  box.className = `${boxAttributes.color} box animation`;
   box.textContent = boxAttributes.content;
   grid.appendChild(box);
   if (box.textContent.includes(" ")) {
