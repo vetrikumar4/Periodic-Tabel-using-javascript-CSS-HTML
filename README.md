@@ -13,6 +13,7 @@ This is a periodic tabel it was created by using Grid and Animation with Respons
 
 ## Screenshots
 
-![Periodic_tabel](https://github.com/vetrikumar4/Periodic-tabel/assets/46168078/f85122fc-4fee-4331-aaf1-5ccb340dac6d)
+![periodic_table](https://github.com/WebDevSimplified/Nodejs-Passport-Login/assets/46168078/49486382-5f43-4aed-be2b-a20b91e822d7)
+
 
 
